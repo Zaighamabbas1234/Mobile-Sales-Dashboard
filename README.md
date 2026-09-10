@@ -40,20 +40,15 @@ This visualization helps identify:
 * Increasing or decreasing sales trends.
 * Seasonal patterns.
 * Changes in customer demand.
-### 2. 📱 Sales by Mobile Model
-
-A **clustered bar chart** compares total sales across different mobile models.
-
+--
+### 2. Sales by Mobile Model:
+A clustered bar chart compares total sales across different mobile models.
 This helps identify:
-
-* Best-performing mobile models
-* Models generating higher revenue
-* Differences in model-level performance
-
+* Best-performing mobile models.
+* Models generating higher revenue.
+* Differences in model-level performance.
 ---
-
-### 3. 💳 Transactions by Payment Method
-
+### 3. Transactions by Payment Method:
 A **pie chart** displays the distribution of transactions across different payment methods.
 
 This allows businesses to understand:
