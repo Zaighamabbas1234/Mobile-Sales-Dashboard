@@ -15,19 +15,14 @@ The main objectives of this dashboard are to:
 * Analyze monthly sales and quantity trends.
 * Visualize sales performance across different cities.
 * Provide interactive filtering for detailed analysis.
-## 🛠️ Tools & Technologies
-
-* **Microsoft Power BI**
-* **DAX**
-* **Power Query**
-* **Data Visualization**
-* **Data Modeling**
-* **Interactive Dashboard Design**
-
----
-
-## 📌 Dashboard KPIs
-
+## Tools & Technologies:
+* Microsoft Power BI.
+* DAX.
+* Power Query.
+* Data Visualization.
+* Data Modeling.
+* Interactive Dashboard Design.
+## Dashboard KPIs:
 The dashboard contains four major Key Performance Indicators (KPIs):
 
 | KPI               | Description                                 |
