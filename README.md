@@ -1,5 +1,5 @@
 # Mobile Sales Dashboard — Power BI:
-## Project Overview
+## Project Overview:
 The Mobile Sales Dashboard is an interactive Power BI data visualization and business intelligence project designed to analyze mobile phone sales performance.
 The dashboard provides a comprehensive overview of sales, transactions, quantities, customer ratings, mobile models, brands, payment methods, cities and daily/monthly sales trends.
 The project demonstrates the use of Power BI, data modeling, DAX measures, interactive filters, and data visualization to transform sales data into meaningful business insights.
@@ -134,7 +134,7 @@ This dashboard can help businesses:
 4. Use the available slicers to filter the data.
 5. Interact with the charts to explore different sales dimensions.
 > **Note:** Microsoft Power BI Desktop is required to open and edit the `.pbix` file.
-## 📚 Skills Demonstrated
+## 📚 Skills Demonstrated:
 
 This project demonstrates practical experience in:
 
