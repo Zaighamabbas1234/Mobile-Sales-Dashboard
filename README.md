@@ -24,19 +24,14 @@ The main objectives of this dashboard are to:
 * Interactive Dashboard Design.
 ## Dashboard KPIs:
 The dashboard contains four major Key Performance Indicators (KPIs):
-
-| KPI               | Description                                 |
+| KPI:              | Description:                                |
 | ----------------- | ------------------------------------------- |
 | 💰 Total Sales    | Overall revenue generated from mobile sales |
 | 📦 Total Quantity | Total number of mobile units sold           |
 | 🧾 Transactions   | Total number of sales transactions          |
 | 📊 Average        | Average sales value                         |
-
 These KPIs provide a quick overview of the overall business performance.
-
----
-
-## 📈 Dashboard Visualizations
+## Dashboard Visualizations:
 
 ### 1. 📅 Monthly Quantity Trend
 
