@@ -138,33 +138,14 @@ This dashboard can help businesses:
 
 This project demonstrates practical experience in:
 
-* Power BI Dashboard Development
-* Data Visualization
-* Business Intelligence
-* Data Analysis
-* DAX Measures
-* Power Query
-* Interactive Filtering
-* KPI Development
-* Data Modeling
-* Sales Performance Analysis
-* Business Reporting
-
----
-
-## 👨‍💻 Author
-
-**Zaigham Abbas**
-
-🎓 Data Science Graduate
-💻 Aspiring Data Scientist | Machine Learning & AI Enthusiast
-📊 Python | SQL | Power BI | Machine Learning | Data Analysis
-
----
-
-## ⭐ If You Find This Project Useful
-
-If you find this Power BI project helpful or interesting, consider giving the repository a ⭐ on GitHub.
-
-**Thank you for visiting!**
-
+* Power BI Dashboard Development.
+* Data Visualization.
+* Business Intelligence.
+* Data Analysis.
+* DAX Measures.
+* Power Query.
+* Interactive Filtering.
+* KPI Development.
+* Data Modeling.
+* Sales Performance Analysis.
+* Business Reporting.
