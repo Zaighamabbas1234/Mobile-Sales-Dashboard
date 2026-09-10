@@ -70,15 +70,12 @@ This helps evaluate:
 
 ---
 
-### 5. 🗺️ Sales by City
-
-A **map visualization** represents total sales geographically.
-
+### 5. Sales by City:
+A map visualization represents total sales geographically.
 This provides insights into:
-
-* Sales distribution by city
-* High-performing locations
-* Geographic sales patterns
+* Sales distribution by city.
+* High-performing locations.
+* Geographic sales patterns.
 
 ---
 
