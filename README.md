@@ -106,10 +106,8 @@ Available filters include:
 * Day Name.
 * Month.
 Users can combine multiple filters to perform focused analysis.
-## 📊 Key Business Questions
-
+## Key Business Questions:
 The dashboard can be used to answer questions such as:
-
 * What are the total sales generated?
 * How many mobile units were sold?
 * How many transactions were completed?
@@ -120,13 +118,8 @@ The dashboard can be used to answer questions such as:
 * Which days have the highest sales?
 * How does sales quantity change month by month?
 * How are customer ratings distributed?
-
----
-
-## 💡 Business Value
-
+## Business Value:
 This dashboard can help businesses:
-
 * Monitor sales performance.
 * Identify high-performing products.
 * Understand customer purchasing behavior.
@@ -134,9 +127,6 @@ This dashboard can help businesses:
 * Identify important geographic markets.
 * Optimize sales and marketing strategies.
 * Make data-driven business decisions.
-
----
-
 ## 🖥️ Dashboard Preview
 
 > Add a screenshot of your Power BI dashboard here.
