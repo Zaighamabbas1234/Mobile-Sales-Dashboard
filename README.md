@@ -127,40 +127,13 @@ This dashboard can help businesses:
 * Identify important geographic markets.
 * Optimize sales and marketing strategies.
 * Make data-driven business decisions.
-## 🖥️ Dashboard Preview
-
-> Add a screenshot of your Power BI dashboard here.
-
-```text
-![Mobile Sales Dashboard](dashboard-preview.png)
-```
-
----
-
-## 📂 Project Structure
-
-```text
-Mobile-Sales-Dashboard/
-│
-├── Mobile Sales Dashboard.pbix
-├── dashboard-preview.png
-└── README.md
-```
-
----
-
-## 🚀 How to Use
-
+## How to Use:
 1. Download or clone this repository.
-2. Open **Mobile Sales Dashboard.pbix** using Microsoft Power BI Desktop.
+2. Open Mobile Sales Dashboard.pbix using Microsoft Power BI Desktop.
 3. Explore the dashboard visuals.
 4. Use the available slicers to filter the data.
 5. Interact with the charts to explore different sales dimensions.
-
 > **Note:** Microsoft Power BI Desktop is required to open and edit the `.pbix` file.
-
----
-
 ## 📚 Skills Demonstrated
 
 This project demonstrates practical experience in:
