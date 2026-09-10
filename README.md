@@ -79,15 +79,12 @@ This provides insights into:
 
 ---
 
-### 6. 📆 Sales by Day
-
-An **area chart** displays total sales according to the day of the week.
-
+### 6. Sales by Day:
+An area chart displays total sales according to the day of the week.
 This can help identify:
-
-* High-sales days
-* Low-sales days
-* Weekly purchasing patterns
+* High-sales days.
+* Low-sales days.
+* Weekly purchasing patterns.
 
 ---
 
