@@ -40,34 +40,33 @@ This visualization helps identify:
 * Increasing or decreasing sales trends.
 * Seasonal patterns.
 * Changes in customer demand.
---
+  
+---
+
 ### 2. Sales by Mobile Model:
 A clustered bar chart compares total sales across different mobile models.
 This helps identify:
 * Best-performing mobile models.
 * Models generating higher revenue.
 * Differences in model-level performance.
+  
 ---
+
 ### 3. Transactions by Payment Method:
 A **pie chart** displays the distribution of transactions across different payment methods.
-
 This allows businesses to understand:
-
-* Customer payment preferences
-* Most frequently used payment methods
-* Relative transaction contribution of each payment type
+* Customer payment preferences.
+* Most frequently used payment methods.
+* Relative transaction contribution of each payment type.
 
 ---
 
-### 4. ⭐ Customer Ratings
-
-A **funnel visualization** is used to analyze customer ratings.
-
+### 4. Customer Ratings:
+A funnel visualization is used to analyze customer ratings.
 This helps evaluate:
-
-* Customer satisfaction levels
-* Distribution of ratings
-* Overall customer experience
+* Customer satisfaction levels.
+* Distribution of ratings.
+* Overall customer experience.
 
 ---
 
