@@ -149,3 +149,7 @@ This project demonstrates practical experience in:
 * Data Modeling.
 * Sales Performance Analysis.
 * Business Reporting.
+
+If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
+---
+**Thank you for visiting this repository!**
