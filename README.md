@@ -33,20 +33,13 @@ The dashboard contains four major Key Performance Indicators (KPIs):
 
 These KPIs provide a quick overview of the overall business performance.
 ## Dashboard Visualizations:
-
-### 1. 📅 Monthly Quantity Trend
-
-A **line chart** is used to analyze the quantity of mobile phones sold over time.
-
+### 1. Monthly Quantity Trend:
+A line chart is used to analyze the quantity of mobile phones sold over time.
 This visualization helps identify:
-
-* Monthly sales volume
-* Increasing or decreasing sales trends
-* Seasonal patterns
-* Changes in customer demand
-
----
-
+* Monthly sales volume.
+* Increasing or decreasing sales trends.
+* Seasonal patterns.
+* Changes in customer demand.
 ### 2. 📱 Sales by Mobile Model
 
 A **clustered bar chart** compares total sales across different mobile models.
