@@ -3,13 +3,8 @@
 The Mobile Sales Dashboard is an interactive Power BI data visualization and business intelligence project designed to analyze mobile phone sales performance.
 The dashboard provides a comprehensive overview of sales, transactions, quantities, customer ratings, mobile models, brands, payment methods, cities and daily/monthly sales trends.
 The project demonstrates the use of Power BI, data modeling, DAX measures, interactive filters, and data visualization to transform sales data into meaningful business insights.
-
----
-
-## 🎯 Objectives
-
+## Objectives:
 The main objectives of this dashboard are to:
-
 * Analyze overall mobile sales performance.
 * Monitor total sales and transaction volume.
 * Track the quantity of mobile phones sold.
@@ -20,9 +15,6 @@ The main objectives of this dashboard are to:
 * Analyze monthly sales and quantity trends.
 * Visualize sales performance across different cities.
 * Provide interactive filtering for detailed analysis.
-
----
-
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Power BI**
