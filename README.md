@@ -134,7 +134,7 @@ This dashboard can help businesses:
 4. Use the available slicers to filter the data.
 5. Interact with the charts to explore different sales dimensions.
 > **Note:** Microsoft Power BI Desktop is required to open and edit the `.pbix` file.
-## 📚 Skills Demonstrated:
+## Skills Demonstrated:
 
 This project demonstrates practical experience in:
 
