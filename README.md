@@ -88,34 +88,24 @@ This can help identify:
 
 ---
 
-### 7. 🏷️ Brand Performance
-
+### 7. Brand Performance:
 A detailed table compares mobile brands using:
-
-* Total Sales
-* Total Quantity
-* Transactions
-
+* Total Sales.
+* Total Quantity.
+* Transactions.
 This makes it easier to compare brand-level performance.
 
 ---
 
-## 🎛️ Interactive Filters
-
+## Interactive Filters:
 The dashboard includes multiple interactive slicers that allow users to dynamically filter the analysis.
-
 Available filters include:
-
-* 📱 **Mobile Model**
-* 💳 **Payment Method**
-* 🏷️ **Brand**
-* 📅 **Day Name**
-* 📆 **Month**
-
+* Mobile Model.
+* Payment Method.
+* Brand.
+* Day Name.
+* Month.
 Users can combine multiple filters to perform focused analysis.
-
----
-
 ## 📊 Key Business Questions
 
 The dashboard can be used to answer questions such as:
